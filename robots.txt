@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://predksi-singapure.github.io/kil-1/sitemap.xml
